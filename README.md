@@ -71,13 +71,13 @@
   <a href="mailto:leonardo.rprado@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail />
   </a>
-  <a href="mailto:leonardo.rprado@gmail.com">leonardo.rprado@gmail.com</a>
+<!--   <a href="mailto:leonardo.rprado@gmail.com">leonardo.rprado@gmail.com</a> -->
 <br>
   
   <a href="https://www.linkedin.com/in/leonardo-prado-dev/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-prado-dev/" >LinkedIn - Léo Prado</a>
+<!--   <a href="https://www.linkedin.com/in/leonardo-prado-dev/" >LinkedIn - Léo Prado</a> -->
 <br>
 
 </div>
