@@ -2,7 +2,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleoprado&show_icons=true&theme=dark) -->
 
 <h1 align="center">
-<b>Olá! Eu sou o Léo Prado, Desenvolvedor Web Full Stack</b>
+<b>Olá! Eu sou o Léo Prado 👋🏻</b>
 </h1>
 
 ## <b>🧑🏻‍💻 Sobre</b>
@@ -10,7 +10,7 @@
 - Eu tenho 32 anos, sou brasileiro e atualmente moro em Lisboa, Porgugal
 - Estou em transição de carreira para a área tecnologia
 - Estou finalizando o curso de Desenvolvimento Web Full stack, na escola de tecnologia @Trybe
-- Já sou Desenvolvedor Front End e em breve serei Desenvolvedor Back End :)
+- Sou desenvolvedor Full Stack :)
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM1Y2JjN2YyNzY0MWMzYmM5ODdhODAyM2U1MGQ0MzhjNTczMWUwZiZjdD1z/Qo2dupDib32rkTY4hX/giphy.gif" width = 250px>
